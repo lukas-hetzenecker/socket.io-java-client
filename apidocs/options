@@ -1,0 +1,24 @@
+-classpath
+'/home/lukas/projects/socket.io-java-client/target/classes:/home/lukas/.m2/repository/org/java-websocket/Java-WebSocket/1.3.0/Java-WebSocket-1.3.0.jar:/home/lukas/.m2/repository/org/json/json/20140107/json-20140107.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/lukas/projects/socket.io-java-client/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2014. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/lukas/projects/socket.io-java-client/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'socket.io-java-client 1.7 API'
+-link
+'http://java.sun.com/javase/6/docs/api'
+-use
+-version
+-windowtitle
+'socket.io-java-client 1.7 API'

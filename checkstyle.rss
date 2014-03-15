@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>socket.io-java-client - Checkstyle report</title>
+    <link>https://github.com/lukas-hetzenecker/socket.io-java-client</link>
+    <description>socket.io-java-client - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2014</copyright>
+    <item>
+      <title>File: 9,
+             Errors: 2097,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>https://github.com/lukas-hetzenecker/socket.io-java-client/checkstyle.html</link>
+      <description>
+        <p>Click <a href="https://github.com/lukas-hetzenecker/socket.io-java-client/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="https://github.com/lukas-hetzenecker/socket.io-java-client/checkstyle.html#io.socket.SocketIO.java">io/socket/SocketIO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  477
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/lukas-hetzenecker/socket.io-java-client/checkstyle.html#io.socket.SocketIOException.java">io/socket/SocketIOException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  27
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/lukas-hetzenecker/socket.io-java-client/checkstyle.html#io.socket.IOConnection.java">io/socket/IOConnection.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  977
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/lukas-hetzenecker/socket.io-java-client/checkstyle.html#io.socket.IOCallback.java">io/socket/IOCallback.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  55
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/lukas-hetzenecker/socket.io-java-client/checkstyle.html#io.socket.XhrTransport.java">io/socket/XhrTransport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  290
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/lukas-hetzenecker/socket.io-java-client/checkstyle.html#io.socket.IOAcknowledge.java">io/socket/IOAcknowledge.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/lukas-hetzenecker/socket.io-java-client/checkstyle.html#io.socket.IOTransport.java">io/socket/IOTransport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  52
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/lukas-hetzenecker/socket.io-java-client/checkstyle.html#io.socket.IOMessage.java">io/socket/IOMessage.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  178
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/lukas-hetzenecker/socket.io-java-client/checkstyle.html#io.socket.WebsocketTransport.java">io/socket/WebsocketTransport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  30
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
