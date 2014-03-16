@@ -234,17 +234,15 @@ class IOConnection implements IOCallback {
 	 *            the socket
 	 * @return a IOConnection object
 	 */
-	static public IOConnection register(String origin, SocketIO socket) {
+	static synchronized public IOConnection register(String origin, SocketIO socket) {
 		List<IOConnection> list = connections.get(origin);
 		if (list == null) {
 			list = new LinkedList<IOConnection>();
 			connections.put(origin, list);
 		} else {
-			synchronized (list) {
-				for (IOConnection connection : list) {
-					if (connection.register(socket))
-						return connection;
-				}
+			for (IOConnection connection : list) {
+				if (connection.register(socket))
+					return connection;
 			}
 		}
 
