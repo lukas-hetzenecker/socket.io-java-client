@@ -4,7 +4,7 @@
 
 	<groupId>com.hetzenecker.socketio</groupId>
 	<artifactId>socketio-java-client</artifactId>
-	<version>1.7</version>
+	<version>1.7.1</version>
 	<name>socket.io-java-client</name>
 	<description>socket.io-java-client</description>
 	<url>https://github.com/lukas-hetzenecker/socket.io-java-client</url>
